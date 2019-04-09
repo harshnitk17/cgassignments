@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1549323523 source:c:\users\student\downloads\semester-four-master\semester-four-master\mukesh\cg\lab-4-array\vertex arrays\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdio.h>
+
+1483697028 c:\opengl\gl files\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1483697028 c:\opengl\gl files\include\gl\gl.h
+
+1483697028 c:\opengl\gl files\include\gl\glu.h
+	<GL/gl.h>
+
+1551107784 source:c:\users\harsh\desktop\cg\assinment2\vertex arrays\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdio.h>
+	<GL/gl.h>
+

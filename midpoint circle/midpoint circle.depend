@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1551104827 source:c:\users\harsh\desktop\midpoint circle\main.cpp
+	<windows.h>
+	<stdio.h>
+	<iostream>
+	<GL/glut.h>
+
+1515445926 c:\users\harsh\desktop\gl files\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1515445924 c:\users\harsh\desktop\gl files\include\gl\gl.h
+
+1515445924 c:\users\harsh\desktop\gl files\include\gl\glu.h
+	<GL/gl.h>
+
+1551104827 source:c:\users\harsh\desktop\cg\midpoint circle\main.cpp
+	<windows.h>
+	<stdio.h>
+	<iostream>
+	<GL/glut.h>
+
